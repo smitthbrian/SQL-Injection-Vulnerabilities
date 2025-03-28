@@ -35,7 +35,7 @@ To secure web applications, the following countermeasures were implemented:
 ✅ **Regular Security Testing** – Ensures ongoing protection  
 
 ## 📄 Full Report  
-Check out the full report **[here](SQL_Injection_Vulnerabilities.pdf)** for step-by-step details.  
+Check out the full report **[here]([SQL_Injection_Vulnerabilities.pdf](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities/blob/main/SQL%20Injection%20Vulnerabilities.pdf))** for step-by-step details.  
 
 ## 🔗 Additional Resources  
 For more information on SQL Injection, visit:  
